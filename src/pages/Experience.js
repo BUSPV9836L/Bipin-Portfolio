@@ -4,6 +4,7 @@ import { SiTailwindcss } from "react-icons/si";
 import { RiReactjsLine } from "react-icons/ri";
 import { TbBrandJavascript, TbBrandCss3, TbBrandCpp } from "react-icons/tb";
 import imgExperience from './images/experience.jpg'
+import { FaNodeJs } from "react-icons/fa";
 export const Experience = () => {
   return (
     <div id="experience" className="text-gray-700 flex-col w-[460px] justify-center sm:w-[600px] md:w-[1200px] px-4 py-6 bg-gradient-to-tr from-purple-600 to-orange-500 rounded-lg mx-auto mt-5">
@@ -35,6 +36,10 @@ export const Experience = () => {
         <div className="flex items-center mx-2">
           <TbBrandCpp size={50} />
           <h1 className="ml-10 text-xl">C++</h1>
+        </div>
+        <div className="flex items-center mx-2">
+          <FaNodeJs size={50} />
+          <h1 className="ml-10 text-xl">Node JS</h1>
         </div>
         <div className=" w-fit relative md:mt-[-395px] md:ml-[540px] mx-auto">
           <img src={imgExperience}></img>

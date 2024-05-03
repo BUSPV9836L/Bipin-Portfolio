@@ -26,7 +26,7 @@ export const NavBar = () => {
           <a href="#contact">Contact</a>
         </span>
         <span className="mx-2 hover:bg-pink-700 rounded-3xl px-4 py-2 bg-gradient-to-r from bg-purple-600 to to-white">
-          <a href="https://drive.google.com/file/d/1Ek2NmJ31-ug1md6a92Fr-PfxnnnRlf1y/view?usp=sharing">Resume</a>
+          <a href="https://drive.google.com/file/d/1x1qFbzp-VujkGFgDTQXqu4tCAhjMV87H/view?usp=sharing">Resume</a>
         </span>
       </div>
       <div className="md:hidden">

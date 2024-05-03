@@ -18,6 +18,8 @@ export const About = () => {
         <li>JavaScript</li>
         <li>Bootstrap 5</li>
         <li>React Js</li>
+        <li>Node js</li>
+        <li>Material Ui</li>
         <li>React-Bootstrap</li>
         <li>Git/Github</li>
       </ul>

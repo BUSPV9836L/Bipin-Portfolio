@@ -6,7 +6,7 @@ export const Contact = () => {
       <h1 className="text-center text-gray-700 font-bold text-5xl mt-5">Get In Touch</h1>
       <p className="mt-5 text-gray-700 text-lg">
         I’m currently searching for opportunities for a front-end developer
-        role. If there is any vacancy my inbox is always open. Whether you have
+        role. I have 1.2 Year of experince as a Frontend Developer. If there is any vacancy my inbox is always open. Whether you have
         any further questions or just want to say hi, I’ll try my best to get
         back to you!
       </p>

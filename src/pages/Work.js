@@ -1,6 +1,6 @@
 import React from "react";
 import sort from "./images/sort.jpg";
-import week from "./images/weekaways.jpg";
+import week from "./images/salesmanagement.png";
 import Portfolio from "./images/portfolio.jpg";
 export const Work = () => {
   return (
@@ -16,7 +16,7 @@ export const Work = () => {
         </div>
         <div className="flex-col text-center w-[350px] text-xl mx-auto my-5">
           <img className="rounded-2xl" src={week} alt='/'></img>
-          <h1 className="text-2xl mt-2"><a href="https://weekway-4bfc4.web.app/">WeekaWays</a></h1>
+          <h1 className="text-2xl mt-2"><a href="https://react-store-c7c13.web.app">Sales Management System</a></h1>
         </div>
         <div className="flex-col text-center v w-[350px]   text-xl mx-auto my-5">
           <img className="rounded-2xl" src={Portfolio} alt='/'></img>
